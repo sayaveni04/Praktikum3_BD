@@ -1,7 +1,7 @@
 # Praktikum3_BD
 ```
-Nama   : Hafidza Dafariz Mujizat
-NIM    : 312210276
+Nama   : Venikala Natalia Kala
+NIM    : 312210690
 Kelas  : TI.22.A.2
 ```
 ## SQL Constraint
